@@ -30,7 +30,7 @@ make
 
 program the binary to an arduino nano connected to /dev/ttyUSB0:
 
-make install
+make prog
 
 
 
